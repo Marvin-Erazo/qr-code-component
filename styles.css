@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #9bbee0;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media screen and (max-width: 375px) {
+  .qr {
+    width: 80%;
+  }
+}
+
+.qr {
+  background-color: #fff;
+  max-width: 300px;
+  border-radius: 20px;
+}
+
+.qr .qr-image {
+  width: 100%;
+  padding: 15px 15px 30px 15px;
+}
+
+.qr .qr-image img {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.qr .qr-description {
+  margin: 0px 25px 40px 25px;
+  text-align: center;
+}
+
+.qr .qr-description #title {
+  font-size: 16pt;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.qr .qr-description #description {
+  font-size: 11pt;
+  font-weight: 200;
+  color: #948f8f;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  font-size: 10pt;
+  width: 100%;
+}
+
+footer p {
+  text-align: center;
+}
+/*# sourceMappingURL=styles.css.map */
