@@ -21,16 +21,18 @@ I finished it around 2 hours, and for the responsive only change the width dimen
 
 ### Screenshot
 
-Mobile (Using a navigator to dimension responsive)
+Mobile
 
+![qr-code-component](https://user-images.githubusercontent.com/90436675/158513917-b3595873-d616-48ab-a283-a52829ddf449.png)
 
 Desktop
+![image](https://user-images.githubusercontent.com/90436675/158513729-cc5a74b7-7fc7-4e41-8509-5d85222a6729.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Marvin-Erazo/qr-code-component)
+- Live Site URL: (https://musing-wing-c547f2.netlify.app/)
 
 ## My process
 
